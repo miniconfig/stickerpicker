@@ -1,5 +1,5 @@
 {
-  "homeserver_url": "https://chat.caffeinatedfirefly.com",
+  "homeserver_url": "https://matrix-client.matrix.org",
   "packs": [
     "scalar-rabbit.json",
     "scalar-loading_artist.json",
