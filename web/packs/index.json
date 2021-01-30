@@ -1,6 +1,13 @@
 {
   "homeserver_url": "https://chat.caffeinatedfirefly.com",
   "packs": [
-    "PikachuDetective.json"
+    "PikachuDetective.json",
+    "BabyYodaAlfmaler.json",
+    "Meme_stickers.json",
+    "Broken_Animals.json",
+    "drakoha.json",
+    "BunJoe.json",
+    "PlayMinecraft.json",
+    "PhilTheOwl.json"
   ]
 }
