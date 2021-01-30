@@ -1,16 +1,6 @@
 {
-  "homeserver_url": "https://matrix-client.matrix.org",
+  "homeserver_url": "https://chat.caffeinatedfirefly.com",
   "packs": [
-    "scalar-rabbit.json",
-    "scalar-loading_artist.json",
-    "scalar-geeko.json",
-    "scalar-isabella.json",
-    "scalar-privacy_pam.json",
-    "scalar-sheltie.json",
-    "scalar-smilies.json",
-    "scalar-videoplasty.json",
-    "scalar-stickman.json",
-    "scalar-stakey.json"
+    "PikachuDetective.json"
   ]
 }
-
